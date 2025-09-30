@@ -1,0 +1,13 @@
+window {
+    background-color: #1e1e2e;
+    font-size: 14px;
+    color: #cdd6f4;
+}
+
+#entry:selected {
+    background-color: #89b4fa;
+}
+
+#text:selected {
+    color: #1e1e2e;
+}
